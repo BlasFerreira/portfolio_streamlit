@@ -28,7 +28,7 @@ SOCIAL_MEDIA = {
 
 PROJECTS = {
     "🏆 Digit recognizer with deep learning ": "https://blasferreira-tensorflowmnist-main-m6hswf.streamlit.app/",
-
+    "🏆 Extract examples of linguee and PROMT " : "https://webextraction.streamlit.app/"
 }
 
 
