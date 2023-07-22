@@ -67,27 +67,17 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
     cols[index].write(f"[{platform}]({link})")
 
 
-# --- EXPERIENCE & QUALIFICATIONS ---
-st.write('\n')
-st.subheader("Experience & Qulifications")
-st.write(
-    """
-- ✔️ Strong hands on experience and knowledge in Python and Excel
-- ✔️ 3 years of web scraping experience
-- ✔️ 4 months of comprehensive strategic data analysis service
-- ✔️ Good understanding of statistical principles and their respective applications
-"""
-)
-
 
 # --- SKILLS ---
 st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming Language: Python, SQL, R, C.
-- 📊 Data Visulization:  Plotly, Matplotlib.
-- 📚 Machine Learning : Supervised and Unsupervised
+-  Programming Language: Python, SQL, R, C.
+-  Data Visulization:  Power BI, Plotly, Matplotlib.
+-  Machine Learning : sklearn, keras, TensorFlow.
+-  Data Base : SQL,MySQL y Postgresql.
+-  Cloud : Azure.
 
 """
 )
@@ -104,9 +94,13 @@ st.write("🚧", "**Data Scientist | freelancer**")
 st.write("01/2018 - Present")
 st.write(
     """
-- ► Extensive experience as a freelancer in Data Science projects. Autonomous, collaborative work and delivering efficient solutions in data analysis, modeling and visualization.
-- ► Web scraping
-- ► machine learning modeling
+- ► Web scraping: Data extraction with Python, BeautifulSoup and Scrapy.
+- ► Data analysis: Use of Python, R, pandas, NumPy, matplotlib and seaborn for statistical analysis and visualization.
+- ► Machine learning models: Model building with TensorFlow, Keras, scikit-learn and traditional algorithms.
+- ► Presentation of analysis on web pages: Development of interactive visualizations using Streamlit to create interactive web applications.
+- ► Process automation: Automation of tasks using scripts and programming tools.
+- ► SQL database management: Database design, queries and data manipulation using MySQL, PostgreSQL and SQL Server.
+- ► Azure experience: Use of services such as Azure Machine Learning, Azure Data Factory and Azure Functions for cloud projects.
 """
 )
 
