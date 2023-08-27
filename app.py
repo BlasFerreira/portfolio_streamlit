@@ -74,11 +74,27 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
--  Programming Language: Python, SQL, R, C.
--  Data Visulization:  Power BI, Plotly, Matplotlib.
--  Machine Learning : sklearn, keras, TensorFlow.
--  Data Base : SQL,MySQL y Postgresql.
--  Cloud : Azure.
+
+- ► Programming Languages: Python, R, and C
+
+- ► Database : SQL, MySQL,CSV.
+
+- ► Libraries and Frameworks:Pandas, NumPy,Request y Beautiful Soup.
+
+- ► Machine Learning :TensorFlow, PyTorch, Scikit Learn y Keras.
+
+- ► Natural Language Processing (NLP): Hugging Face, NLTK, spaCy y Gensim.
+
+- ► Business Intelligence and Visualization: Power BI, Matplotlib y Seaborn.
+
+- ► Cloud Platforms: Azure
+
+- ► Tools and Platforms: Git & GitHub
+
+- ► Development Environments: Visual Studio Code, Jupyter Notebook, Colab
+
+- ► Web Scraping
+
 
 """
 )
