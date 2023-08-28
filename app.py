@@ -132,6 +132,24 @@ st.write(
 """
 )
 
+# --- JOB 3
+st.write("🚧", "**Electronic Operator | Convex**")
+st.write("01/01/2020 - 15/01/2021")
+st.write(
+    """
+- ► Meticulously fabricated Industrial Battery Chargers, ensuring precision and innovation.
+"""
+)
+
+# --- JOB 4
+st.write("🚧", "**Maintenance Technician | Service & Solutions**")
+st.write("01/01/2018 - 01/06/2019")
+st.write(
+    """
+- ► Conducted both preventive and corrective maintenance for electrical and IT installations at a Banco Macro branch.
+- ► Bolstered operational resilience, ensuring seamless infrastructure functioning.
+"""
+)
 
 
 
