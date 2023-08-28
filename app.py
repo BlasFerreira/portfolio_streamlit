@@ -151,7 +151,27 @@ st.write(
 """
 )
 
+# --- Education ---
+st.write('\n')
+st.subheader("Education")
+st.write("---")
 
+st.write("🎓", "**Computer Engineering | National University of La Plata**")
+st.write("2021 – Present")
+st.write("La Plata, Argentina")
+
+st.write("🎓", "**Data Science Course | National Technological University (UTN)**")
+st.write("2021 – 2021")
+
+st.write("🎓", "**Software Developer Program | Platzi | Digital Academy**")
+st.write("2020 – Present")
+
+st.write("🎓", "**Electronic Engineering | National University of La Plata**")
+st.write("2014 – 2020 (third year)")
+st.write("La Plata, Argentina")
+
+st.write("🎓", "**High School | Economics and Organizational Management | Formosa**")
+st.write("2008 - 2013")
 
 # --- Projects & Accomplishments ---
 st.write('\n')
