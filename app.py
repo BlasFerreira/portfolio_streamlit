@@ -30,7 +30,7 @@ PROJECTS = {
     "🏆 Digit recognizer with deep learning ": "https://blasferreira-tensorflowmnist-main-m6hswf.streamlit.app/",
     "🏆 Extract examples of linguee and PROMT " : "https://webextraction.streamlit.app/",
     "🏆 ship monitoring " : "https://blnqlyx1yu6ubrzt.maps.arcgis.com/apps/dashboards/0f1a827114b04a0d92f4560833e7eb16",
-    "🏆 NLP Analysis with NLTK, spaCy, and Hugging Face: Entity Recognition and Summarization" : "https://nlptools.streamlit.app/"
+    "🏆 NLP Analysis with NLTK, spaCy, and Hugging Face: Entity Recognition and Summarization" : "https://nlproject.streamlit.app/"
 }
 
 
