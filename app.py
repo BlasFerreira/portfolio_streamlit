@@ -3,7 +3,11 @@ from pathlib import Path
 import streamlit as st
 from PIL import Image
 
-
+st.set_page_config(page_title="Ferreira Blas Portfolio", 
+                   page_icon=":robot_face:",
+                   layout="wide",
+                   initial_sidebar_state="expanded"
+                   )
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
